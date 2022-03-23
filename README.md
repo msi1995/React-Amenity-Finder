@@ -1,5 +1,10 @@
 # React-Amenity-Finder
 
+
+![image](https://user-images.githubusercontent.com/63132397/159798059-2f8382db-2910-4302-a377-b58d99aeb0b1.png)
+
+
+
 ## Functionality 
 The site allows users to search for an area (ie Corvallis, Portland, Los Angeles). The site will move the Map to the searched location and drop a pin. Clicking on the sidebar links after searching a location will display establishments in that area with various information about them, and a photo pulled from Google. 
 
