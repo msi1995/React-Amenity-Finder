@@ -30,7 +30,7 @@ function ResultCard(props) {
         display: flex;
 
         &:hover {
-            box-shadow: ${props.color} 1px 10px 10px 1px;
+            box-shadow: ${props.color} 1px 8px 8px 1px;
             cursor: pointer;
         }
 
