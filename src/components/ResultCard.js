@@ -31,6 +31,7 @@ function ResultCard(props) {
 
         &:hover {
             box-shadow: ${props.color} 1px 10px 10px 1px;
+            cursor: pointer;
         }
 
         h2{
